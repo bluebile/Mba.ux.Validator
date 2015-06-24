@@ -1,4 +1,4 @@
-Ext.define('Mba.util.Validator', {
+Ext.define('Mba.ux.Validator', {
 
     requires: ['Ext.data.Validations'],
 
