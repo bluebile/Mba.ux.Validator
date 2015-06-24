@@ -1,0 +1,34 @@
+{
+    "name": "Mba.ux.Validator",
+    "version": "0.0.1",
+    "homepage": "https://github.com/bluebile/Mba.ux.Validator",
+    "authors": [
+        "Bluebile <info@bluebile.com>"
+    ],
+    "description": "Melhorias na validador do Sencha Touch",
+    "main": [
+        "Validator.js"
+    ],
+    "keywords": [
+        "senchatouch",
+        "extjs",
+        "ux",
+        "model",
+        "data",
+        "validator"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "demo",
+        "ux",
+        "**/*.*~",
+        "Gruntfile.js",
+        "bower.json",
+        "package.json",
+        "test",
+        "tests"
+    ]
+}

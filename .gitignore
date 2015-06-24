@@ -1,0 +1,20 @@
+## arquivos de projeto de IDE
+.project
+.settings
+.buildpath
+nbproject
+*.sublime-project
+.idea
+## arquivos privados de IDE
+*.sublime-workspace
+*.iws
+*.iml
+
+## arquivos privados de compilacao
+node_modules/
+build/
+
+## arquivo de configuracao sencha
+packager.json
+
+!.gitkeep
