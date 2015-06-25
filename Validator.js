@@ -1,6 +1,6 @@
 Ext.define('Mba.ux.Validator', {
 
-    requires: ['Ext.data.Validations'],
+    requires: [ 'Ext.data.Validations' ],
 
     singleton: true,
 
